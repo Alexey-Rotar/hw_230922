@@ -1,5 +1,5 @@
-Задание 2
-Решение:
+// Задание 2
+// Решение:
 
 try {
     int d=0;
@@ -9,10 +9,10 @@ try {
     System.out.println("Catching exception: "+e);
 }
 
------------
 
-Задание 3
-Решение:
+
+// Задание 3
+// Решение:
 
 public static void main(String[] args) {
     try {
